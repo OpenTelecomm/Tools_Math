@@ -1,2 +1,2 @@
-# Tools Math
-Math Tools
+# Math Library
+
