@@ -1,7 +1,6 @@
 # Math Library
-[![Github](https://img.shields.io/badge/Github-2.1.17-grey)](https://github.com/OpenTelecomm/LibMath) 
-[![MathWorks](https://img.shields.io/badge/MathWorks-2.1.17-red)](https://www.mathworks.com/matlabcentral/fileexchange/182267-textremo_opentelecomm_libmath) 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![Github](https://img.shields.io/badge/Github-1.0.2-grey)](https://github.com/OpenTelecomm/LibMath) 
+[![MathWorks](https://img.shields.io/badge/MathWorks-1.0.2-red)](https://www.mathworks.com/matlabcentral/fileexchange/182267-textremo_opentelecomm_libmath) 
 
 ## How to install
 * Install through `Matlab`
