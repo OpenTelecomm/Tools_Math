@@ -2,5 +2,6 @@ clear;
 clc;
 
 % Add all paths
-addpath(genpath("samples"));
-addpath(genpath("tests"));
+addpath(genpath("src"));
+addpath(genpath("sample"));
+addpath(genpath("test"));
